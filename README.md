@@ -3,14 +3,14 @@
 
 ### Categories<hr>
 - MCU & Related Modules
-- Arduinos
-    >- Uno
-    >- Mega
-    >- Mega + ESP8266
-    >- Nano
-    >- Pro mini
-    >- Pro micro
-    >- Leonardo
+    - Arduinos
+        >- Uno
+        >- Mega
+        >- Mega + ESP8266
+        >- Nano
+        >- Pro mini
+        >- Pro micro
+        >- Leonardo
 - ESPs
     >- ESP8266-01s
     >- ESP8266 NodeMCU V2
