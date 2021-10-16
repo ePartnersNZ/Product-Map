@@ -2,6 +2,7 @@
 - Descriptions
 
 ### Categories
+<hr>
 - Arduinos
 - ESPs
 - Modules
