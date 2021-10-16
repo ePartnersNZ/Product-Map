@@ -1,8 +1,7 @@
 # ePartners Workplace🕋
 - Descriptions
 
-### Categories
-<hr>
+### Categories<hr>
 - Arduinos
 - ESPs
 - Modules
