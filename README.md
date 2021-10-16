@@ -3,7 +3,13 @@
 
 ### Categories<hr>
 - Arduinos
-    >- Uno  
+    >- Uno
+    >- Mega
+    >- Mega + ESP8266
+    >- Nano
+    >- Pro mini
+    >- Pro micro
+    >- Leonardo
 - ESPs
 - Modules
 - Motors
