@@ -1,3 +1,9 @@
 # ePartners Workplace🕋
 
-## - Categories
+## Categories
+- Arduinos
+- ESPs
+- Modules
+- Motors
+- Relays
+- Sensors
