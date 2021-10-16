@@ -1,1 +1,1 @@
-# ePartners Workplace🚀🗼🏴‍☠️🕋
+# ePartners Workplace🕋
