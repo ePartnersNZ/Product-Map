@@ -24,9 +24,10 @@
         >- ESP32-CAM
     - WeMos
         >- WeMos D1 Mini V2
-        >- WeMos D1 Mini Pro
-        >
-- General Modules
+        >- WeMos D1 Mini Pro (4MB / 16MB)
+        >- WeMos D1 R2
+        >- WeMos D1 ESP-WROOM-02 + 18650 Shield
+- Modules
 - Motors
 - Relays
 - Sensors
