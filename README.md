@@ -2,6 +2,7 @@
 - Descriptions
 
 ### Categories<hr>
+- MCU & Related Modules
 - Arduinos
     >- Uno
     >- Mega
@@ -21,7 +22,11 @@
     >- ESP32-WROOM-32
     >- ESP32-WROOM-32 38Pins
     >- ESP32-CAM
-- Modules
+- WeMos
+    >- WeMos D1 Mini V2
+    >- WeMos D1 Mini Pro
+    >
+- General Modules
 - Motors
 - Relays
 - Sensors
