@@ -2,15 +2,18 @@
 - Descriptions
 
 ### Categories<hr>
-- MCU & Related Modules
+- MCU
     - Arduinos
         >- Uno
-        >- Mega
+        >- Mega2560
+        >- Mega2560 Pro Mini
         >- Mega + ESP8266
         >- Nano
         >- Pro mini
         >- Pro micro
         >- Leonardo
+    - ATtiny
+        >- ATtiny85
     - ESPs
         >- ESP8266-01s
         >- ESP8266 NodeMCU V2
@@ -27,7 +30,31 @@
         >- WeMos D1 Mini Pro (4MB / 16MB)
         >- WeMos D1 R2
         >- WeMos D1 ESP-WROOM-02 + 18650 Shield
-- Modules
+- Audio Modules
+- Battery Modules
+    - Battery Shields
+    - Battery Testers
+    - BMS(Battery Management System)
+- Kits
+- LCDs
+- LEDs
+    - OLEDs
+- Signal Modules
+    - LoRas
+    
+- Other Modules
+    - CAN BUS
+    - Data Loggers
+    - Ethernet Modules
+    - KeyPads
+    - RFIDs
+    - SD Card Readers
+    
 - Motors
+    - Motors
+    - Controllers
+    - Driver Modules
 - Relays
 - Sensors
+- Shields
+- Voltage Converters
