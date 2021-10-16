@@ -43,14 +43,6 @@
 - Signal Modules
     - LoRas
     
-- Other Modules
-    - CAN BUS
-    - Data Loggers
-    - Ethernet Modules
-    - KeyPads
-    - RFIDs
-    - SD Card Readers
-    
 - Motors
     - Motors
     - Controllers
@@ -59,3 +51,12 @@
 - Sensors
 - Shields
 - Voltage Converters
+
+- Other Modules
+    - CAN BUS
+    - Data Loggers
+    - Ethernet Modules
+    - KeyPads
+    - RFIDs
+    - SD Card Readers
+    - Logic Level Converters
