@@ -36,9 +36,10 @@
     - Battery Testers
     - BMS(Battery Management System)
 - Kits
-- LCDs
-- LEDs
-    - OLEDs
+- Displays
+    - LCDs
+    - LEDs
+        >- OLEDs
 - Signal Modules
     - LoRas
     
