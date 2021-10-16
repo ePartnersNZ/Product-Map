@@ -2,7 +2,7 @@
 - Descriptions
 
 ### Categories<hr>
-- MCU
+- MCUs
     - Arduinos
         >- Uno
         >- Mega2560
@@ -25,23 +25,27 @@
         >- ESP32-WROOM-32
         >- ESP32-WROOM-32 38Pins
         >- ESP32-CAM
+    - STM
+        >- STM32
     - WeMos
         >- WeMos D1 Mini V2
         >- WeMos D1 Mini Pro (4MB / 16MB)
         >- WeMos D1 R2
         >- WeMos D1 ESP-WROOM-02 + 18650 Shield
+        
 - Audio Modules
 - Battery Modules
     - Battery Shields
     - Battery Testers
     - BMS(Battery Management System)
-- Kits
+
 - Displays
     - LCDs
     - LEDs
         >- OLEDs
 - Signal Modules
     - LoRas
+    - NRF
     
 - Motors
     - Motors
@@ -53,6 +57,7 @@
 - Voltage Converters
 
 - Other Modules
+    - BlueTooth
     - CAN BUS
     - Data Loggers
     - Ethernet Modules
@@ -60,3 +65,7 @@
     - RFIDs
     - SD Card Readers
     - Logic Level Converters
+    - RTC
+    - Opto Coupler Isolation
+    - I/O Expander
+    
