@@ -1,4 +1,4 @@
-# ePartners Workplace🕋
+# ePartners Workspace🕋
 - Descriptions
 
 ### Categories<hr>
