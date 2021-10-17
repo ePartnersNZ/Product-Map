@@ -29,6 +29,7 @@
         >- ESP32-CAM
     - STM
         >- STM32
+        >- STM8
     - WeMos
         >- WeMos D1 Mini V2
         >- WeMos D1 Mini Pro (4MB / 16MB)
