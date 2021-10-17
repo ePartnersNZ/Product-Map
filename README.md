@@ -38,20 +38,20 @@
         
 - Audio Modules
     - Amplifier
-        >-2 x 10W Audio Stereo Amplifier
-        >-30W + 30W Stereo Audio Amplifier
-        >-TDA2030A Audio Amplifier
-        >-4 x 3W 4 Channel Audio Amplifier
-        >-30W Stereo Audio Amplifier with Bluetooth
-        >-50W Stereo Audio Amplifier with Bluetooth
-        >-60W Mono Audio Power Amplifier
-        >-2 x 3W Mini Audio Amplifier
+        >- 2 x 10W Audio Stereo Amplifier
+        >- 30W + 30W Stereo Audio Amplifier
+        >- TDA2030A Audio Amplifier
+        >- 4 x 3W 4 Channel Audio Amplifier
+        >- 30W Stereo Audio Amplifier with Bluetooth
+        >- 50W Stereo Audio Amplifier with Bluetooth
+        >- 60W Mono Audio Power Amplifier
+        >- 2 x 3W Mini Audio Amplifier
         
     - Player Modules
-        >-MP3 Format Decoder Module
-        >-Voice Recording Recorder Module
-        >-Mini MP# Player Audio Module
-        >-Mini Bluetooth 5.0 Audio Receiver
+        >- MP3 Format Decoder Module
+        >- Voice Recording Recorder Module
+        >- Mini MP# Player Audio Module
+        >- Mini Bluetooth 5.0 Audio Receiver
     
 - Battery Modules
     - Battery Shields
