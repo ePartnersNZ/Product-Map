@@ -1,6 +1,7 @@
 # ePartners Workspace🕋
-- Descriptions
+- Descriptions:
 
+<hr>
 ### Categories<hr>
 - MCUs
     - Arduinos
