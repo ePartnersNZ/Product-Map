@@ -62,10 +62,11 @@
     - LCDs
     - LEDs
         >- OLEDs
-- Signal Modules
-    - LoRas
+- Communication Modules
+    - LoRa
     - NRF
-    
+    - Bluetooth
+    - Ethernet Module
 - Motors
     - Motors
     - Controllers
@@ -76,10 +77,8 @@
 - Voltage Converters
 
 - Other Modules
-    - BlueTooth
     - CAN BUS
     - Data Loggers
-    - Ethernet Modules
     - KeyPads
     - RFIDs
     - SD Card Readers
